@@ -23,7 +23,7 @@ Our image database resides in this repository, containing approximately 650 imag
 
 To run this project, access it via Google Colab using the provided link:
 
-<a href="https://colab.research.google.com/drive/17slxQlLX9yw3CXFnD0n8IKAwh1q1Stdi"><img src="https://colab.research.google.com/img/colab_favicon.ico" width="50" height="50"></a>
+<a href="https://colab.research.google.com/drive/17slxQlLX9yw3CXFnD0n8IKAwh1q1Stdi?usp=sharing"><img src="https://colab.research.google.com/img/colab_favicon.ico" width="50" height="50"></a>
 
 ### Data Augmentation
 
